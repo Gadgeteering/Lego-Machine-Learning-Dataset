@@ -1,13 +1,13 @@
 # Lego Brick Sorter Machine
 
 
-This project is inspired by Daniel West's project to build a Lego sorter
+This project is inspired by [Daniel West's project][4] to build a Lego sorter
 
 [Lego Sorter][3]
 
 This is a nice explantion of the three steps to build a Lego sorter
 
-1.  [Build a dataset to train the AI] [1] using the [Ldraw Library][3] and use [blender] [2] to render the image
+1.  [Build a dataset to train the AI][1] using the [Ldraw Library][3] and use [blender][2] to render the image
 
 2.  Train the AI using Tensorflow
 
