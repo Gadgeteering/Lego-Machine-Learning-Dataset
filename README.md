@@ -7,11 +7,11 @@ This project is inspired by Daniel West's project to build a Lego sorter
 
 This is a nice explantion of the three steps to build a Lego sorter
 
-1. # [Build a dataset to train the AI] [1] using the [Ldraw Library][3] and use [blender] [2] to render the image
+1.  [Build a dataset to train the AI] [1] using the [Ldraw Library][3] and use [blender] [2] to render the image
 
-2. # Train the AI using Tensorflow
+2.  Train the AI using Tensorflow
 
-3. # Build a image capature and classification process
+3.  Build a image capature and classification process
 
 [1]: https://github.com/Gadgeteering/LegoBrickClassification/blob/master/README.md
 [2]: https://github.com/TobyLobster/ImportLDraw
