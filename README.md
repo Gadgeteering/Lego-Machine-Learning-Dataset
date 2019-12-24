@@ -3,7 +3,7 @@
 
 This project is inspired by [Daniel West's project][4] to build a Lego sorter
 
-[Lego Sorter][3]
+[Lego Sorter][5]
 
 This is a nice explantion of the three steps to build a Lego sorter
 
